@@ -1,4 +1,4 @@
-# ILI9341_driver_v2
+# EasyTFT_Screen_Driver
 
 This is the driver for EasyTFT screen.
 
